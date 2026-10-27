@@ -1,4 +1,4 @@
-# Help Desk — Gestió de l'assistència tècnica informàtica
+# Help Desk — Gestió d'assistència informàtica
 Projecte Intermodular SMX
 
 Disseny d'un servei d'assistència tècnica per a una empresa d'informàtica.
