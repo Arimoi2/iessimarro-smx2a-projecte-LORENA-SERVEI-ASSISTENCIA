@@ -17,3 +17,14 @@ l'assignació i la resolució de les incidències dels clients.
 - `documents/` — Document de Repte (Annex A).
 - `documents/fitxes/` — Fitxes d'activitat (Annex B).
 - `configuracio/` — Configuracions tècniques (quan s'execute el projecte).
+
+## Estat del projecte
+| Fase | Document | Estat |
+|---|---|---|
+| 1. Plantejament | fase1-plantejament.md | Lliurada |
+| 2. Repte | document-repte.md | Pendent |
+| 3. Activitats | fitxes/ | Pendent |
+| 4. Cronograma | cronograma.md | Pendent |
+| 5. Metodologia | metodologia.md | Pendent |
+| 6. Avaluació | memoria/ | Pendent |
+
