@@ -32,7 +32,17 @@ resolució de problemes de programari.
 - MP03 — Aplicacions ofimàtiques: relacionat amb l'elaboració de documents i registres per 
 organitzar la informació de l'empresa.
 
-## Resultat esperat
+## Criteris d'avaluació per RA
 
+Mòdul					RA			Criteri d'avaluació											Tasca que ho demostra
+MP01 – Muntatge i manteniment d'equips	RA1	Identifica i classifica els equips, perifèrics i components informàtics de l'empresa.				#2 – Crear un inventari d'equips i perifèrics.
+MP01 – Muntatge i manteniment d'equips	RA2	Defineix els passos necessaris per a rebre, revisar, diagnosticar i reparar equips informàtics.			#4 – Establir el procediment de recepció i reparació d'equips.
+MP02 – Sistemes operatius		RA1	Identifica i classifica les incidències relacionades amb els sistemes informàtics.				#5 – Classificar les incidències de sistemes i xarxes.
+MP02 – Sistemes operatius		RA2	Documenta els procediments necessaris per a diagnosticar i resoldre problemes de programari.			#8 – Documentar el procediment de resolució de problemes de programari.
+MP02 – Sistemes operatius		RA3	Elabora fitxes tècniques que descriuen les activitats i els procediments del servei tècnic.			#10 – Elaborar les fitxes d'activitat dels procediments del servei tècnic.
+MP03 – Xarxes				RA1	Identifica els problemes de connectivitat i estableix un procediment per a diagnosticar-los i resoldre'ls.	#9 – Documentar el procediment de diagnòstic de problemes de xarxa.
+
+## Resultat esperat
 Un conjunt de documents que descriga com organitzar l'inventari, gestionar les peticions dels 
 clients i establir procediments de reparació i assistència tècnica, sense programar cap aplicació.
+
